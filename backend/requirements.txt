@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+pandas
+python-dotenv   # optional, if you want to load env vars

@@ -1,0 +1,19 @@
+# Ignore Python bytecode
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environment
+SQL_play/
+
+# Ignore common Python artifacts
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+*.log
+
+# Ignore IDE/editor files (optional)
+.vscode/
+.idea/
+*.swp
