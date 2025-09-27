@@ -4,3 +4,7 @@ sqlalchemy
 psycopg2-binary
 pandas
 python-dotenv   # optional, if you want to load env vars
+langchain
+langchain-community
+huggingface_hub
+ollama   # if running locally
